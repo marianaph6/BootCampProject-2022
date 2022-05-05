@@ -1,3 +1,8 @@
+import TiposDato.TiposDato
+
 fun main() {
-    println("Hello, Kotlin/Native! BootCamp Android 2022")
+
+    //Tipos de datos
+    print("TIPOS DE DATOS")
+    TiposDato().main()
 }
