@@ -5,15 +5,26 @@ import platform.windows.byte
 class TiposDato{
 
     fun main(){
+        println()
+        println("BYTES")
         BytesEjemplo()
+        println("SHORT")
         ShortEjemplo()
+        println("INT")
         IntEjemplo()
+        println("LONG")
         LongEjemplo()
+        println("FLOAT")
         FloatEjemplo()
+        println("DOUBLE")
         DoubleEjemplo()
+        println("CHAR")
         CharEjemplo()
+        println("STRING")
         StringEjemplo()
+        println("BOOLEANO")
         BooleanEjemplo()
+        println()
     }
 
         fun BytesEjemplo (){

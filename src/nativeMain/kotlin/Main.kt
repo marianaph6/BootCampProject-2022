@@ -1,8 +1,16 @@
+import Arrays.Listas
 import TiposDato.TiposDato
 
 fun main() {
 
     //Tipos de datos
-    print("TIPOS DE DATOS")
+    println("TIPOS DE DATOS")
     TiposDato().main()
+
+    //Listas
+    println("TIPOS DE LISTAS")
+    Listas().main()
+
+    //ARRAYS
+    println("ARRAYS")
 }
