@@ -1,4 +1,4 @@
-import Arrays.Listas
+import Arreglos.Listas
 import TiposDato.TiposDato
 
 fun main() {
@@ -13,4 +13,5 @@ fun main() {
 
     //ARRAYS
     println("ARRAYS")
+    Arreglos.Array().main()
 }
