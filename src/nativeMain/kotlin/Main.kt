@@ -18,4 +18,8 @@ fun main() {
     //SETS
     println("SETS")
     Arreglos.Set().main()
+
+    //MAPS
+    println("MAPS")
+    Arreglos.Map().main()
 }
