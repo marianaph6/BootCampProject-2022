@@ -1,4 +1,4 @@
-package Arrays
+package Arreglos
 
 class Listas {
 
