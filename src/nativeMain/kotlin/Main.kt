@@ -14,4 +14,8 @@ fun main() {
     //ARRAYS
     println("ARRAYS")
     Arreglos.Array().main()
+
+    //SETS
+    println("SETS")
+    Arreglos.Set().main()
 }
