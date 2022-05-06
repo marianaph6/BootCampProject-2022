@@ -1,4 +1,5 @@
 import Arreglos.Listas
+import Exceptions.Exceptions
 import TiposDato.TiposDato
 
 fun main() {
@@ -22,4 +23,8 @@ fun main() {
     //MAPS
     println("MAPS")
     Arreglos.Map().main()
+
+    //EXCEPCIONES
+    println("EXCEPCIONES")
+    Exceptions().main()
 }
